@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(163, 162, 162);
+}
+
+.canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.count {
+  position: absolute;
+  z-index: 10;
+  top: 20px;
+  left: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: #cfcfff;
+}
